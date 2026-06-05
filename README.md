@@ -1,4 +1,7 @@
 # Ghost
+## 📸 Preview
+
+![Ghost running](Ghostbot.png)
 
 ## 🧠 Sobre o projeto
 Ghost é um script em Python feito pra automação e testes locais.
