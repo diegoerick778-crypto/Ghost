@@ -5,7 +5,7 @@
 
 ## 🧠 Sobre o projeto
 Ghost é um script em Python feito pra automação e testes locais.
-
+Python CLI automation tool for local scripting, testing workflows, and lightweight task automation with async support and SQLite history tracking.
 ---
 
 ## ⚙️ Requisitos
