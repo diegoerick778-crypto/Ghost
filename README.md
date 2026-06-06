@@ -18,9 +18,22 @@ Python CLI automation tool for local scripting, testing workflows, and lightweig
 Clone o repositório:
 ```bash
 git clone https://github.com/diegoerick778-crypto/Ghost.git
-cd Ghost
+cd Ghost```
 
+---
 
 #como executar
+```
 chmod +x ghostbot.py
-./ghostbot.py
+./ghostbot.py```
+---
+
+## ⚠️ Aviso legal
+
+Ao instalar e executar este projeto, você concorda que:
+
+- O uso é de sua inteira responsabilidade.
+- Os desenvolvedores não se responsabilizam por qualquer mau uso, dano ou consequência gerada.
+- Este projeto é fornecido apenas para fins educacionais e de testes locais.
+
+Use com consciência. Não inventa moda fora do ambiente permitido.
